@@ -1,0 +1,80 @@
+{
+	
+	"more":[
+		{
+			"id":"0",
+			"img":"../src/assets/images/yunnan.jpeg",
+			"title":"丽江",
+			"des":"丽江古镇，宛如故里客栈",
+			"price":"￥360",
+			"date":"2天1晚",
+			"appraise":"4.5分"
+		},
+		{
+			"id":"1",
+			"img":"../src/assets/images/view2.jpg",
+			"title":"海盐南北湖湖光山居度假酒店",
+			"des":"1晚+可加购南北湖成人票",
+			"price":"￥269",
+			"date":"1晚",
+			"appraise":"4.2分"
+		},
+		{
+			"id":"2",
+			"img":"../src/assets/images/view3.jpg",
+			"title":"西塘风景区",
+			"des":"【情侣推荐】和西塘一起沸腾起来",
+			"price":"￥780",
+			"date":"2日",
+			"appraise":"4.5分"
+		},
+		{
+			"id":"3",
+			"img":"../src/assets/images/view5.jpg",
+			"title":"南京沃阁巴厘原墅温泉酒店",
+			"des":"立于半山之上的原生态酒店",
+			"price":"￥759",
+			"date":"1晚",
+			"appraise":"4.5分"
+		},
+		{
+			"id":"4",
+			"img":"../src/assets/images/view6.jpg",
+			"title":"溧阳涵田度假村酒店",
+			"des":"私密半岛上的湖景酒店",
+			"price":"￥1520",
+			"date":"2天1晚",
+			"appraise":"4.8分"
+		},
+		{
+			"id":"5",
+			"img":"../src/assets/images/view7.jpg",
+			"title":"美国西海岸+洛杉矶市+拉斯维加斯",
+			"des":"大峡谷南峡+锡安国家公园...",
+			"price":"￥5719",
+			"date":"9日游",
+			"appraise":"4.5分"
+		},
+		{
+			"id":"6",
+			"img":"../src/assets/images/view8.jpg",
+			"title":"日本大阪+京都+奈良+东京",
+			"des":"京都奈良双古都 2天自由... ",
+			"price":"￥4906",
+			"date":"6天5晚",
+			"appraise":"5分"
+		},
+		{
+			"id":"7",
+			"img":"../src/assets/images/view9.jpg",
+			"title":"九寨沟+黄龙",
+			"des":"九寨沟闭园期间更换为游览牟尼沟扎嘎瀑布+二道海",
+			"price":"￥1216",
+			"date":"3天2晚",
+			"appraise":"4.9分"
+		}
+		
+	
+	]
+
+}
